@@ -1,0 +1,14 @@
+{
+  "t03": {
+    "i": "/finger.png",
+    "c": "yellow",
+    "t": "^F15",
+    "f": "Ctrl+F15"
+  },
+  "t14": {
+    "i": "/folderUp.png",
+    "c": "silver",
+    "t": "...",
+    "f": "/_pantTest1.json"
+  }
+}

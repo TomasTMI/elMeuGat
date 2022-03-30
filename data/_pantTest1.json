@@ -1,0 +1,26 @@
+{
+  "t01": {
+    "i": "/logout.png",
+    "c": "green",
+    "t": "Text...",
+    "f": "Prueba..."
+  },
+  "t02": {
+    "i": "/logout.png",
+    "c": "blue",
+    "t": "^F14",
+    "f": "Ctrl+F14"
+  },
+  "t14": {
+    "i": "/folderUp.png",
+    "c": "silver",
+    "t": "...",
+    "f": "/_pantMain.json"
+  },
+  "t15": {
+    "i": "/folder.png",
+    "c": "white",
+    "t": "Test 2",
+    "f": "/_pantTest2.json"
+  }
+}

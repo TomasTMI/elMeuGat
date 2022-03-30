@@ -1,0 +1,80 @@
+{
+  "t01": {
+    "i": "/escCaratula.png",
+    "c": "yellow",
+    "t": "Caratula",
+    "f": "Shift+F1"
+  },
+  "t02": {
+    "i": "/escEntrada.png",
+    "c": "yellow",
+    "t": "Locutor",
+    "f": "Shift+F2"
+  },
+  "t03": {
+    "i": "/escPantalla.png",
+    "c": "yellow",
+    "t": "Pantalla",
+    "f": "Shift+F3"
+  },
+  "t04": {
+    "i": "/escFinal.png",
+    "c": "yellow",
+    "t": "Final",
+    "f": "Shift+F4"
+  },
+  "t06": {
+    "i": "/graba.png",
+    "c": "red",
+    "t": "Graba",
+    "f": "Ctrl+F1"
+  },
+  "t06_": {
+    "i": "/grabaFin.png",
+    "c": "red",
+    "t": "Stop",
+    "f": "Ctrl+F4"
+  },
+  "t07": {
+    "i": "/grabaPausa.png",
+    "c": "red",
+    "t": "Pausa",
+    "f": "Ctrl+F2"
+  },
+  "t07_": {
+    "i": "/grabaReanuda.png",
+    "c": "red",
+    "t": "Reanuda",
+    "f": "Ctrl+F3"
+  },
+  "t11": {
+    "i": "/micNo.png",
+    "c": "white",
+    "t": "Silenciar",
+    "f": "Ctrl+F5"
+  },
+  "t11_": {
+    "i": "/mic.png",
+    "c": "white",
+    "t": "Micro ON",
+    "f": "Ctrl+F6"
+  },
+  "t12": {
+    "i": "/tituloNo.png",
+    "c": "white",
+    "t": "Sin Titulo",
+    "f": "Ctrl+F7"
+  },
+  "t12_": {
+    "i": "/titulo.png",
+    "c": "white",
+    "t": "Titulo ON",
+    "f": "Ctrl+F8"
+  },
+  "t15": {
+    "i": "/folderUp.png",
+    "c": "silver",
+    "t": "...",
+    "f": "/_pantMain.json"
+  }
+}

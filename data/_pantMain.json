@@ -1,0 +1,14 @@
+{
+  "t01": {
+    "i": "/obs.png",
+    "c": "red",
+    "t": "OBS",
+    "f": "/_pantObs.json"
+  },
+  "t15": {
+    "i": "/folder.png",
+    "c": "white",
+    "t": "Test 1",
+    "f": "/_pantTest1.json"
+  }
+}
