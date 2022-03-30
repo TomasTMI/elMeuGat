@@ -1,4 +1,4 @@
-// C:\Users\Tomas\Documents\Arduino\libraries\TFT_eSPI
+// C:\Users\USER\Documents\Arduino\libraries\TFT_eSPI\User_Setup.h
 
 #define ILI9341_DRIVER       // Generic driver for common displays
 
