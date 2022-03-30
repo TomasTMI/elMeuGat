@@ -1,7 +1,7 @@
 # elMeuGat
 Projecte ESP32 Stream-Desk
 
-Publicació: [Article-Blog](https://tomas.tmisl.es/2022/03/elmeugat-un-streamdesk-con-esp32/){:target="_blank rel="noopener""}
+Publicació en BLOG: <a href="https://tomas.tmisl.es/2022/03/elmeugat-un-streamdesk-con-esp32/" target="_blank">Article</a>
 
 <br /><br />
-_&copy; 2022... Tomás Martímez - TMI - [tmisl.es](https://tmisl.es){:target="_blank" rel="noopener"}_
+_&copy; 2022... Tomás Martímez - TMI - <a href="https://tmisl.es" target="_blank">tmisl.es</a>_
