@@ -1,27 +1,27 @@
 {
   "t01": {
-    "i": "/escCaratula.png",
-    "c": "yellow",
-    "t": "Caratula",
-    "f": "Shift+F1"
-  },
-  "t02": {
     "i": "/escEntrada.png",
     "c": "yellow",
     "t": "Locutor",
     "f": "Shift+F2"
   },
-  "t03": {
+  "t02": {
     "i": "/escPantalla.png",
     "c": "yellow",
     "t": "Pantalla",
     "f": "Shift+F3"
   },
-  "t04": {
-    "i": "/escFinal.png",
+  "t03": {
+    "i": "/escEntrada.png",
     "c": "yellow",
-    "t": "Final",
-    "f": "Shift+F4"
+    "t": "Hardware",
+    "f": "Shift+F5"
+  },
+  "t04": {
+    "i": "/escPantalla.png",
+    "c": "yellow",
+    "t": "Pant+Hard",
+    "f": "Shift+F6"
   },
   "t06": {
     "i": "/graba.png",
@@ -46,6 +46,18 @@
     "c": "red",
     "t": "Reanuda",
     "f": "Ctrl+F3"
+  },
+  "t10": {
+    "i": "/escCaratula.png",
+    "c": "green",
+    "t": "Caratula",
+    "f": "Shift+F1"
+  },
+  "t10_": {
+    "i": "/escFinal.png",
+    "c": "green",
+    "t": "Final",
+    "f": "Shift+F4"
   },
   "t11": {
     "i": "/micNo.png",
